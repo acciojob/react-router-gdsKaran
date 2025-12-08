@@ -7,7 +7,7 @@ import About from "./About";
 function App() {
   return (
     <Router>
-      <nav>
+      <nav> 
         <ul>
           <li>
             <Link to="/">Home</Link>
